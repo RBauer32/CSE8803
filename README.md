@@ -2,6 +2,8 @@
 To run our code you will need to download
 matplotlib.pyplot, numpy, pandas, captum
 
+Github for captum can be found here https://github.com/pytorch/captum
+
 ## Data Generation
 
 To generate synthetic data for an SEIRM model run seirm_ode_data_generation.py
