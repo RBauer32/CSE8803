@@ -1,3 +1,7 @@
+## Dependencies
+To run our code you will need to download
+matplotlib.pyplot, numpy, pandas, captum
+
 ## Data Generation
 
 To generate synthetic data for an SEIRM model run seirm_ode_data_generation.py
