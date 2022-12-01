@@ -1,3 +1,5 @@
+## Data Generation
+
 To generate synthetic data for an SEIRM model run seirm_ode_data_generation.py
 
 
